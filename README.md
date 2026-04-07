@@ -261,7 +261,7 @@ This is the user interface of the system.
 ###  Sections
 
 
-### 🔎 1. Filters
+###  1. Filters
 - Select city
 - View specific data
 
