@@ -16,9 +16,9 @@ EnviroScan solves this problem by combining:
 - Geospatial Visualization
 
  The system not only measures pollution but also predicts:
-✔ What caused the pollution  
-✔ Where it is concentrated  
-✔ How severe it is  
+ What caused the pollution  
+ Where it is concentrated  
+How severe it is  
 
 ---
 
