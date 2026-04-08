@@ -364,11 +364,11 @@ README.md
 
 #  9. Key Features
 
-✔ AI-based pollution source detection  
-✔ Real-time dashboard  
-✔ Geospatial heatmap  
-✔ Interactive graphs  
-✔ Smart alerts  
+ AI-based pollution source detection  
+ Real-time dashboard  
+ Geospatial heatmap  
+ Interactive graphs  
+ Smart alerts  
 
 ---
 
@@ -390,9 +390,9 @@ EnviroScan demonstrates how:
 
 can solve real-world pollution problems by:
 
-✔ Identifying causes  
-✔ Visualizing hotspots  
-✔ Helping decision-making  
+ Identifying causes  
+ Visualizing hotspots  
+ Helping decision-making  
 
 ---
 
